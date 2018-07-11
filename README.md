@@ -1,13 +1,13 @@
-## Linux-shell-pimping
+## Test Codius host locally
 
 ### Introduction
-Do you want your shell to look like this?
+Wonder if your Codius host can receive contract(s) / being uploaded to? Check out this script. It will create a folder, then a simple app, then upload it to your local Codius host.
 
 ![screen](https://github.com/jonaagenilsen/Linux-shell-pimping/blob/master/linux_shell.png)
 
 ### Howto
 
-#### Edit (add to) your `~/.bashrc` file:
+#### Download and run script
 ```
 alias ls='ls --color'
 alias l='ls -la'
