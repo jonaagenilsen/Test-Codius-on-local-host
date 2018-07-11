@@ -30,3 +30,4 @@ EOF
 cd $POD
 codius upload --host https://`hostname` --duration 30 -o -y
 
+rm -rf $POD
