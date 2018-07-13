@@ -1,4 +1,4 @@
-## Test Codius host locally
+## Test Codius host (local or remote)
 
 ### Introduction
 Wonder if your Codius host can receive contract(s) / being uploaded to? Check out this script. It will create a folder, then a simple app, then upload it to your local Codius host. It will be active for 30 seconds.
@@ -6,7 +6,10 @@ Wonder if your Codius host can receive contract(s) / being uploaded to? Check ou
 ### Howto
 
 #### Download and run script
-`yum install wget -y -q`
+`yum install wget bind-utils -y -q`
+
+`mkdir -p /root/scripts`
+
 `wget https://raw.githubusercontent.com/jonaagenilsen/Test-Codius-on-local-host/master/test-codius-upload.sh -O test-codius-upload.sh`
 
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/download.png)
