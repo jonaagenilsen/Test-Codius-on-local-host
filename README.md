@@ -14,7 +14,7 @@ Wonder if your Codius host can receive contract(s) / being uploaded to? Check ou
 
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/fetch_test-codius-upload.sh.png)
 
-### Start script
+### Run script
 `sh /root/scripts/test-codius-upload.sh`
 
 ## Examples
