@@ -6,6 +6,7 @@ Wonder if your Codius host can receive contract(s) / being uploaded to? Check ou
 ### Howto
 
 #### Download and run script
+`yum install wget -y -q`
 `wget https://raw.githubusercontent.com/jonaagenilsen/Test-Codius-on-local-host/master/test-codius-upload.sh -O test-codius-upload.sh`
 
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/download.png)
