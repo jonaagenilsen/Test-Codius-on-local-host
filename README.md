@@ -12,11 +12,13 @@ Wonder if your Codius host can receive contract(s) / being uploaded to? Check ou
 
 `wget https://raw.githubusercontent.com/jonaagenilsen/Test-Codius-on-local-host/master/test-codius-upload.sh -O /root/scripts/test-codius-upload.sh`
 
-![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/download.png)
+![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/fetch_test-codius-upload.sh.png)
 
-#### Execute script (create and upload)
-![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/install.png)
+#### Execute script and test your local server
+![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/test_local.png)
 
+#### Execute script and test remote server
+![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/test_local.png)
 
 ## Donations
 [<img src="https://xrptipbot.nodum.io/static/tipbot%20card-min.png" data-canonical-src="https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/" width="240" height="100" />
