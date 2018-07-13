@@ -1,11 +1,11 @@
 # Test Codius host (on local or remote host)
 
-### Introduction
+## Introduction
 Wonder if your Codius host can receive contract(s) / being uploaded to? Check out this script. It will create a folder, then a simple app, then upload it to your local Codius host. It will be active for **30 seconds** (won't drain your precious XRP wallet).
 
-### Howto
+## Howto
 
-#### Download and run script
+### Download
 `yum install wget bind-utils -y -q`
 
 `mkdir -p /root/scripts`
@@ -14,13 +14,17 @@ Wonder if your Codius host can receive contract(s) / being uploaded to? Check ou
 
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/fetch_test-codius-upload.sh.png)
 
-#### Execute script and test your local server
+### Start script
+`sh /root/scripts/test-codius-upload.sh`
+
+## Examples
+### Execute script and test your local server
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/test_local.png)
 
-#### Execute script and test remote server
+### Execute script and test remote server
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/test_local.png)
 
-## Donations
+# Donations
 [<img src="https://xrptipbot.nodum.io/static/tipbot%20card-min.png" data-canonical-src="https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/" width="240" height="100" />
 ](https://www.xrptipbot.com/stats/user/account:jonaagenilsen/network:twitter/)
 
