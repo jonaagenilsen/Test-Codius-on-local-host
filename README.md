@@ -1,7 +1,9 @@
 # Test Codius host (on local or remote host)
 
 ## Introduction
-Wonder if your Codius host can receive contract(s) / being uploaded to? Check out this script. It will create a folder, then a simple app, then upload it to your local Codius host. It will be active for **30 seconds** (won't drain your precious XRP wallet).
+You Codius server is up. Wonder if uploading contracts to it works?
+
+Check out this script. It will create a folder, then a simple app & last it to your local or remote Codius host. It will be active for **30 seconds** (won't drain your precious XRP wallet).
 
 ## Howto
 
