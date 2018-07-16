@@ -20,6 +20,7 @@ Check out this script. It will create a folder, then a simple app & last it to y
 `sh /root/scripts/test-codius-upload.sh local` (local test)
 
 or
+
 `sh /root/scripts/test-codius-upload.sh hodl-xrp.no` (remote test)
 
 ## Examples
