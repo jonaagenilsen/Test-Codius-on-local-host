@@ -17,7 +17,10 @@ Check out this script. It will create a folder, then a simple app & last it to y
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/fetch_test-codius-upload.sh.png)
 
 ### Run script
-`sh /root/scripts/test-codius-upload.sh local` or `sh /root/scripts/test-codius-upload.sh codius01`
+`sh /root/scripts/test-codius-upload.sh local` (local test)
+
+or
+`sh /root/scripts/test-codius-upload.sh hodl-xrp.no` (remote test)
 
 ## Examples
 ### Execute script and test your local server
