@@ -12,7 +12,7 @@ Check out this script. It will create a folder, then a simple app & last it to y
 
 `mkdir -p /root/scripts`
 
-`wget https://raw.githubusercontent.com/jonaagenilsen/Test-Codius-on-local-host/master/test-codius-upload.sh -O /root/scripts/test-codius-upload.sh hodling-xrp.no`
+`wget https://raw.githubusercontent.com/jonaagenilsen/Test-Codius-on-local-host/master/test-codius-upload.sh -O /root/scripts/test-codius-upload.sh`
 
 ![screen](https://github.com/jonaagenilsen/Test-Codius-on-local-host/blob/master/fetch_test-codius-upload.sh.png)
 
